@@ -1,0 +1,2 @@
+# transChinesePinyin2RealName
+转换文档中第一作者和通讯作者的拼音为对应的中文，list.xlsx包含所有信息，names.xlsx为作者的中文姓名，使用python的Xpinyin库
